@@ -1,4 +1,4 @@
-# oracle_version_inst
+# oracle_11g_install
 
 1. edelevery에서 버전에 맞는 오라클 소프트웨어를 다운받는다
 2. vm에서 환경을 구성한다
